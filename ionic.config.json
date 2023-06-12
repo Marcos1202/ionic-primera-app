@@ -1,0 +1,7 @@
+{
+  "name": "my-ap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
